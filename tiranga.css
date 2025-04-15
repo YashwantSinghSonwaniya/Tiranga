@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#box {
+    position: absolute;
+    width: 900px;
+    height: 600px;
+    left: 50%;
+    margin-left: -450px;
+    margin-top: 90px;
+}
+
+#top {
+    width: 900px;
+    height: 200px;
+    background-color: #FF671F;
+}
+
+#middle {
+    position: absolute;
+    width: 900px;
+    height: 200px;
+    background-color: white;
+}
+
+#bottom {
+    width: 900px;
+    height: 200px;
+    margin-top: 200px;
+    background-color: #046A38;
+}
+
+#chakra {
+    border-color: #06038D;
+    border-style: solid;
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    left: 40%;
+    margin-top: 10px;
+    background-color: #06038D;
+}
